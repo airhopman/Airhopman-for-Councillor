@@ -1,2 +1,2 @@
-# Airhopman-for-counciller
-Airhopman for counciller
+# Airhopman-for-Councillor
+Airhopman for Councillor
